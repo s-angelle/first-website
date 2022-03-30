@@ -1,0 +1,128 @@
+html {
+  margin: 10px;
+  padding: 1px;
+  background-color: rgb(236, 210, 176);
+  border: 5px solid black;
+  box-sizing: border-box;
+}
+
+nav {
+  margin: 0 auto;
+  width: 100vw;
+  text-align: center;
+  position: relative;
+  padding: 20px;
+}
+
+nav ul li {
+  width: 25%;
+  float: left;
+}
+
+.heading {
+  padding: 10px;
+  font-weight: bold;
+  margin-left: 15px;
+  margin-top: 55px;
+  position: relative;
+}
+
+span {
+  font-family: Brush script MT;
+  font-size: 2.8rem;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+p {
+  font-size: 13pt;
+  padding: 20px;
+}
+
+div {
+  position: static;
+  position: relative;
+}
+
+.hp-image {
+  height: 300px;
+  width: 500px;
+}
+.image-row {
+  position: static;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+#favorites {
+  font-weight: bold;
+  padding: 10px;
+}
+
+#community {
+  width: 550px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.c-image {
+  display: flex;
+  justify-content: center;
+  position: static;
+}
+
+table,
+th,
+td {
+  padding: 20px;
+  margin-top: 10px;
+  text-align: left;
+}
+ol li {
+  list-style-type: square;
+  font-family: "Courier New", Courier, monospace;
+}
+ul li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+.jt {
+  text-align: center;
+}
+
+form {
+  padding: 15px;
+  background-color: rgb(236, 210, 176);
+  font-style: italic;
+}
+
+input[type="button"] {
+  color: black;
+  background-color: rgb(236, 210, 176);
+  padding: 5px;
+}
