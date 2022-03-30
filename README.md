@@ -1,1 +1,1 @@
-# repo-practice
+# SE Course Projects
