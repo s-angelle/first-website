@@ -1,1 +1,1 @@
-# SE Course Projects
+# SE Course Project
